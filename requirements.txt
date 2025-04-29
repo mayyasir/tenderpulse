@@ -1,1 +1,1 @@
-playwright==1.*\npdfminer.six\nopenai\nsupabase-py\nfastapi\nuvicorn[standard]
+playwright\npdfminer.six\nopenai\nfastapi\nuvicorn[standard]\nsupabase
